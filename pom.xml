@@ -1332,7 +1332,7 @@
 
         <version.jettison>1.3.4</version.jettison>
 
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
         <!--axis2.wso2.version.aar.plugin>1.6.2</axis2.wso2.version.aar.plugin-->
         <carbon.p2.plugin.version>1.5.4</carbon.p2.plugin.version>
 
@@ -1477,29 +1477,29 @@
         <wagon.ssh.version>2.1</wagon.ssh.version>
 
         <!-- CXF Runtime Bundles -->
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>3.0.7.RELEASE</spring.version>
         <!--carbon.cxf.webapp.ext>1.0.1</carbon.cxf.webapp.ext-->
         <aopalliance.version>1.0</aopalliance.version>
         <wsdl4j.version>1.6.3</wsdl4j.version>
-        <xmlsec.version>1.5.5</xmlsec.version>
+        <xmlsec.version>1.5.8</xmlsec.version>
         <!--imp.pkg.version.xmlsec>[1.5.5,2)</imp.pkg.version.xmlsec-->
-        <xmlschema.core.version>2.0.3</xmlschema.core.version>
+        <xmlschema.core.version>2.1.0</xmlschema.core.version>
         <xml.resolver.version>1.2</xml.resolver.version>
-        <wss4j.version>1.5.11-wso2v9</wss4j.version>
+        <wss4j.version>1.5.11-wso2v8</wss4j.version>
         <!--wss4j.osgi.version>1.5.11-wso2v9</wss4j.osgi.version-->
-        <neethi.version>3.0.2</neethi.version>
+        <neethi.version>3.0.3</neethi.version>
         <neethi.osgi.version>2.0.4.wso2v4</neethi.osgi.version>
         <neethi.osgi.version.range>[2.0.4.wso2v4, 3.1.0)</neethi.osgi.version.range>
-        <stax2.version>3.1.1</stax2.version>
-        <woodstox.core.version>4.2.0</woodstox.core.version>
-        <jaxb.xjc.version>2.1.13</jaxb.xjc.version>
-        <jaxb.impl.version>2.1.13</jaxb.impl.version>
+        <stax2.version>3.1.4</stax2.version>
+        <woodstox.core.version>4.4.1</woodstox.core.version>
+        <jaxb.xjc.version>2.2.6</jaxb.xjc.version>
+        <jaxb.impl.version>2.2.6</jaxb.impl.version>
         <jaxb.wso2.version>2.2.5.wso2v1</jaxb.wso2.version>
-        <javax.ws.rs.version>2.0-m10</javax.ws.rs.version>
+        <javax.ws.rs.version>2.0.1</javax.ws.rs.version>
         <javax.persistence.version>2.0.3</javax.persistence.version>
-        <httpcore.nio.version>4.2.4</httpcore.nio.version>
-        <httpcore.version>4.2.4</httpcore.version>
-        <httpclient.version>4.2.5</httpclient.version>
+        <httpcore.nio.version>4.3.3</httpcore.nio.version>
+        <httpcore.version>4.3.3</httpcore.version>
+        <httpclient.version>4.3.3</httpclient.version>
 
         <httpcore.wso2.version>4.3.3.wso2v1</httpcore.wso2.version>
         <httpclient.wso2.version>4.3.1.wso2v2</httpclient.wso2.version>
@@ -1513,14 +1513,14 @@
 
         <!-- J2EE Runtime Enviroment -->
         <!--myfaces.version>2.1.11</myfaces.version-->
-        <openjpa.version>2.3.0</openjpa.version>
+        <openjpa.version>2.2.0-wso2v1</openjpa.version>
         <hibernate.version>4.2.0.Final</hibernate.version>
-        <jpa-commons-pool.version>1.5.4</jpa-commons-pool.version>
+        <jpa-commons-pool.version>1.6</jpa-commons-pool.version>
         <serp.version>1.13.1</serp.version>
         <serp.wso2.version>1.13.1.wso2v1</serp.wso2.version>
         <geronimo-jms.version>1.1.1</geronimo-jms.version>
         <geronimo-jpa.version>1.1</geronimo-jpa.version>
-        <geronimo-jta.version>1.1.1</geronimo-jta.version>
+        <geronimo-jta.version>1.1</geronimo-jta.version>
 
         <!--json wso2-->
         <!--version.json.wso2>2.0.0.wso2v1</version.json.wso2-->
